@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../stayingalivegame/Assets/scripts/breathing.cs">
+    <Files>
+      <File FileName="../stayingalivegame/blab/Assets/ballclack.cs" Line="45" Column="24" />
+      <File FileName="../stayingalivegame/Assets/scripts/breathing.cs" Line="18" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
